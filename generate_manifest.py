@@ -17,6 +17,7 @@ manifest.json 자동 생성 스크립트
 
 3. 실행:
    python generate_manifest.py --dir ./modpack --base-url https://your-server.com/files
+   python generate_manifest.py --dir ./mcpack-files --base-url https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files --mc-version 1.21.1 --loader-type neoforge --loader-version 21.1.172
 
 4. manifest.json이 생성됨
 """
