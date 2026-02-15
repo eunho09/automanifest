@@ -3,6 +3,6 @@
   "base_url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files",
   "mc_version": "1.21.1",
   "loader_type": "neoforge",
-  "loader_version": "21.1.172",
+  "loader_version": "21.1.219",
   "server_address": "168.107.11.7:25565"
 }
