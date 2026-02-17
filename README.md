@@ -1,6 +1,6 @@
 # Manifest 자동 생성
 
-1. `/AutoManifest`폴더에 원하는 모드, 리소스팩 넣기
+1. `/AutoManifest/mcpack-files`폴더에 원하는 모드, 리소스팩 넣기
 2. `/AutoManifest/manifest_config.json` 파일에서 설정
 3. `/AutoManifest/` 해당 위치에서 CMD `python generate_manifest.py` 실행
 4. `/AutoManifest/mcpack-files/manifest.json` 파일 생성 여부 확인 및 설정 확인
