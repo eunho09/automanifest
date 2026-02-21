@@ -8,623 +8,623 @@
     {
       "path": "mods/alltheleaks-1.0.1+1.21.1-neoforge.jar",
       "sha256": "10b3087b9375497f75aa21e88af6a5372436ac7818a3b664032bfdbadb05f601",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/alltheleaks-1.0.1+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/alltheleaks-1.0.1+1.21.1-neoforge.jar",
       "size": 1037740,
       "required": true
     },
     {
       "path": "mods/AmbientSounds_NEOFORGE_v6.2.1_mc1.21.1.jar",
       "sha256": "cd64ccf9ed78aefc5d17cf7addd22afb837a7f7876c90152ba0a91f0946b962d",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/AmbientSounds_NEOFORGE_v6.2.1_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/AmbientSounds_NEOFORGE_v6.2.1_mc1.21.1.jar",
       "size": 83830944,
       "required": true
     },
     {
       "path": "mods/appleskin-neoforge-mc1.21-3.0.7.jar",
       "sha256": "99a2f1b22f05b1215c6c967c0cf0518a39d30e18a94ac3dac248385e38dcfe10",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/appleskin-neoforge-mc1.21-3.0.7.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/appleskin-neoforge-mc1.21-3.0.7.jar",
       "size": 74100,
       "required": true
     },
     {
       "path": "mods/architectury-13.0.8-neoforge.jar",
       "sha256": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/architectury-13.0.8-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/architectury-13.0.8-neoforge.jar",
       "size": 584004,
       "required": true
     },
     {
       "path": "mods/BadOptimizations-2.3.0-1.21.1.jar",
       "sha256": "535183889950e36485003418ffb30fd529a64f87d893c3b2ff291cfaa7d03ef3",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/BadOptimizations-2.3.0-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/BadOptimizations-2.3.0-1.21.1.jar",
       "size": 123862,
       "required": true
     },
     {
       "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
       "sha256": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
       "size": 481646,
       "required": true
     },
     {
       "path": "mods/betterfpsdist-1.21-6.0.jar",
       "sha256": "92fda56743cacb8b00e5c5e1910979cde1a39fb753a4f22310d69b23d6c9ec73",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/betterfpsdist-1.21-6.0.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/betterfpsdist-1.21-6.0.jar",
       "size": 22742,
       "required": true
     },
     {
       "path": "mods/bookshelf-neoforge-1.21.1-21.1.69.jar",
       "sha256": "9d868be040c2ba6e2f31c40278b73d8ff383e1f8d7005a6f9820c0d1c4cf61b5",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/bookshelf-neoforge-1.21.1-21.1.69.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/bookshelf-neoforge-1.21.1-21.1.69.jar",
       "size": 340336,
       "required": true
     },
     {
       "path": "mods/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.73.jar",
       "sha256": "e540a198e0fd2912c9c963e8e28bce3000221e719db4c023bfdd1b6893dff724",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.73.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.73.jar",
       "size": 4498050,
       "required": true
     },
     {
       "path": "mods/chat_heads-0.13.20-neoforge-1.21.jar",
       "sha256": "ba105f86d705e2833de5f7e39df92f6fb20f144f9d49973ab722afd4c8cdedd8",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/chat_heads-0.13.20-neoforge-1.21.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/chat_heads-0.13.20-neoforge-1.21.jar",
       "size": 83369,
       "required": true
     },
     {
       "path": "mods/cherishedworlds-neoforge-10.1.1+1.21.1.jar",
       "sha256": "73a352263e4d21dc4eaa9d52b31f949b896c507aec373e4218b0942fff8f73a3",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/cherishedworlds-neoforge-10.1.1+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/cherishedworlds-neoforge-10.1.1+1.21.1.jar",
       "size": 61728,
       "required": true
     },
     {
       "path": "mods/cloth-config-15.0.140-neoforge.jar",
       "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/cloth-config-15.0.140-neoforge.jar",
       "size": 1163890,
       "required": true
     },
     {
       "path": "mods/cobweb-neoforge-1.21-1.4.0.jar",
       "sha256": "40c151dcee6a08decdd980a7c7ffed6ada292e77c3d2cd7aea2d01e5fa8d3b1c",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/cobweb-neoforge-1.21-1.4.0.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/cobweb-neoforge-1.21-1.4.0.jar",
       "size": 410948,
       "required": true
     },
     {
       "path": "mods/ConstructionSticks-1.21.1-1.2.3.jar",
       "sha256": "6df154662ad0da83af9cd82e484a9015acf387919bfdd591c80b772165a32eed",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/ConstructionSticks-1.21.1-1.2.3.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/ConstructionSticks-1.21.1-1.2.3.jar",
       "size": 253982,
       "required": true
     },
     {
       "path": "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
       "sha256": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/Controlling-neoforge-1.21.1-19.0.5.jar",
       "size": 77555,
       "required": true
     },
     {
       "path": "mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.9.15.jar",
       "sha256": "736b074147ae402dfa8c2f84440b0ef23705d11e186e1034332312807fc524e8",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.9.15.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.9.15.jar",
       "size": 725636,
       "required": true
     },
     {
       "path": "mods/CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar",
       "sha256": "4ed0fc2d7b41f6bdca6c7e69eced4eea6cc6d82ee4c86cf549327ebb4429460c",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar",
       "size": 1199290,
       "required": true
     },
     {
       "path": "mods/cupboard-1.21-2.9.jar",
       "sha256": "0d7093deae83d223674e3bf0fc37943658f3f028e655df6f9e25209c32f41668",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/cupboard-1.21-2.9.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/cupboard-1.21-2.9.jar",
       "size": 23509,
       "required": true
     },
     {
       "path": "mods/drippyloadingscreen_neoforge_3.0.12_MC_1.21.1.jar",
       "sha256": "a0d941bda35becbfbeaef02590cc2dd64228fa497a302292156192c2ee1e5c1e",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/drippyloadingscreen_neoforge_3.0.12_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/drippyloadingscreen_neoforge_3.0.12_MC_1.21.1.jar",
       "size": 78125,
       "required": true
     },
     {
       "path": "mods/elevatorid-neoforge-1.21.1-1.11.4.jar",
       "sha256": "c3908b14549addaa18951c473d2d1f67a3df61bcf5599c6031e71ca5685bf14c",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/elevatorid-neoforge-1.21.1-1.11.4.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/elevatorid-neoforge-1.21.1-1.11.4.jar",
       "size": 191190,
       "required": true
     },
     {
       "path": "mods/enchdesc-neoforge-1.21.1-21.1.8.jar",
       "sha256": "85577102a142e6c201dd5e27f72237f4a7b58d9607c0e7369d43cbbad7ef7cb0",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/enchdesc-neoforge-1.21.1-21.1.8.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/enchdesc-neoforge-1.21.1-21.1.8.jar",
       "size": 81851,
       "required": true
     },
     {
       "path": "mods/entityculling-neoforge-1.8.2-mc1.21.jar",
       "sha256": "cea07c73c3da2a4396dc4e6af8fdb5f460d7a0c32b2ce6b645d6279ee9b5e2f2",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/entityculling-neoforge-1.8.2-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/entityculling-neoforge-1.8.2-mc1.21.jar",
       "size": 473832,
       "required": true
     },
     {
       "path": "mods/entity_model_features_1.21-neoforge-3.0.1.jar",
       "sha256": "d44d7542a4e0aec561bfd6528b90f382e6847ce8019fe0df6cfeda782f2e1f7f",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/entity_model_features_1.21-neoforge-3.0.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/entity_model_features_1.21-neoforge-3.0.1.jar",
       "size": 470634,
       "required": true
     },
     {
       "path": "mods/entity_texture_features_1.21-neoforge-7.0.2.jar",
       "sha256": "73923a8262919df8a684b841187efd4c3d85c748bc2519d3aca5d554307cbc45",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/entity_texture_features_1.21-neoforge-7.0.2.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/entity_texture_features_1.21-neoforge-7.0.2.jar",
       "size": 700889,
       "required": true
     },
     {
       "path": "mods/ExtremeSoundMuffler-3.51_NeoForge-1.21.jar",
       "sha256": "695a63aa7b89f5ab4360704794451394a4cdb5c90a6d69c8328de95a40607593",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/ExtremeSoundMuffler-3.51_NeoForge-1.21.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/ExtremeSoundMuffler-3.51_NeoForge-1.21.jar",
       "size": 264658,
       "required": true
     },
     {
       "path": "mods/fallingleaves-1.21.1-2.5.1.jar",
       "sha256": "3c03b49b5f35481d4baf61ec1fe04233b39cb5a34f7447be04f7d4efd2976834",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/fallingleaves-1.21.1-2.5.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/fallingleaves-1.21.1-2.5.1.jar",
       "size": 153343,
       "required": true
     },
     {
       "path": "mods/FallingTree-1.21.1-1.21.1.11.jar",
       "sha256": "70ee147602d2239e7a093e166fdf0c0abcef959d5d457c0f8f3669ef9b483dc4",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/FallingTree-1.21.1-1.21.1.11.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/FallingTree-1.21.1-1.21.1.11.jar",
       "size": 496356,
       "required": true
     },
     {
       "path": "mods/fancymenu_neoforge_3.7.0_MC_1.21.1.jar",
       "sha256": "3c6cce7ef18254c13e2e061cb882160c9d00f91b09bb589423baccc4f4366462",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/fancymenu_neoforge_3.7.0_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/fancymenu_neoforge_3.7.0_MC_1.21.1.jar",
       "size": 3432729,
       "required": true
     },
     {
       "path": "mods/FarmersDelight-1.21.1-1.2.9.jar",
       "sha256": "bdc8dea5ea3f1ee81494a4587a6aef88976d942294a8ceddc3287cf0436bfd4f",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/FarmersDelight-1.21.1-1.2.9.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/FarmersDelight-1.21.1-1.2.9.jar",
       "size": 2964387,
       "required": true
     },
     {
       "path": "mods/farsight-1.21-3.8.jar",
       "sha256": "8bd938f401f8807f7426bcee0ff0c94d63f1c4c5936a892674188fd1a2076fae",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/farsight-1.21-3.8.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/farsight-1.21-3.8.jar",
       "size": 437939,
       "required": true
     },
     {
       "path": "mods/fastboot-1.21.x-v1.3neo.jar",
       "sha256": "23f44f8b2c479a4242f070e118c6dfe8084942b12d125743e784e121d076ad8d",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/fastboot-1.21.x-v1.3neo.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/fastboot-1.21.x-v1.3neo.jar",
       "size": 9085,
       "required": true
     },
     {
       "path": "mods/ferritecore-7.0.2-neoforge.jar",
       "sha256": "235e2081dfe050d7642b0d432a786668f079168505ba5d6bf0ec70c962a36539",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/ferritecore-7.0.2-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/ferritecore-7.0.2-neoforge.jar",
       "size": 118911,
       "required": true
     },
     {
       "path": "mods/FpsReducer2-neoforge-1.21-2.10.jar",
       "sha256": "f3afa8a76ae8f320610d6e50970881722a758c1c23ded4831293d1c81adbce21",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/FpsReducer2-neoforge-1.21-2.10.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/FpsReducer2-neoforge-1.21-2.10.jar",
       "size": 143137,
       "required": true
     },
     {
       "path": "mods/fzzy_config-0.7.2+1.21+neoforge.jar",
       "sha256": "82bccb294529dba0fdb50faa3499fa98a584cda1abcae0bfde7589fc4fbe9941",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/fzzy_config-0.7.2+1.21+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/fzzy_config-0.7.2+1.21+neoforge.jar",
       "size": 2261392,
       "required": true
     },
     {
       "path": "mods/gpumemleakfix-1.21-1.8.jar",
       "sha256": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/gpumemleakfix-1.21-1.8.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/gpumemleakfix-1.21-1.8.jar",
       "size": 6574,
       "required": true
     },
     {
       "path": "mods/harvest-with-ease-neoforge-1.21-9.4.0.jar",
       "sha256": "e42eed218468bfd244898b9776959155820d228f494c9638982a8aace229ebe8",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/harvest-with-ease-neoforge-1.21-9.4.0.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/harvest-with-ease-neoforge-1.21-9.4.0.jar",
       "size": 483625,
       "required": true
     },
     {
       "path": "mods/ImmediatelyFast-NeoForge-1.6.6+1.21.1.jar",
       "sha256": "1266c606b5ab0135040b9fd8495a2c7398e4dcbf63c40d7836bde5768ceb2544",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/ImmediatelyFast-NeoForge-1.6.6+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/ImmediatelyFast-NeoForge-1.6.6+1.21.1.jar",
       "size": 254117,
       "required": true
     },
     {
       "path": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
       "sha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/iris-neoforge-1.8.12+mc1.21.1.jar",
       "size": 2438548,
       "required": true
     },
     {
       "path": "mods/Jade-1.21.1-NeoForge-15.10.3.jar",
       "sha256": "7087a9672a208071e774571423793d499a56adc8dd09fabe36f8652a3bb9c418",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/Jade-1.21.1-NeoForge-15.10.3.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/Jade-1.21.1-NeoForge-15.10.3.jar",
       "size": 725736,
       "required": true
     },
     {
       "path": "mods/jei-1.21.1-neoforge-19.21.2.313.jar",
       "sha256": "10438f30ed6701f5757316ffb0bb1b3af45c46f2ba95795af0254101ad8ae1e1",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/jei-1.21.1-neoforge-19.21.2.313.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/jei-1.21.1-neoforge-19.21.2.313.jar",
       "size": 1450209,
       "required": true
     },
     {
       "path": "mods/jei-1.21.1-neoforge-19.27.0.340.jar",
       "sha256": "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/jei-1.21.1-neoforge-19.27.0.340.jar",
       "size": 1529391,
       "required": true
     },
     {
       "path": "mods/journeymap-neoforge-1.21.1-6.0.0-beta.52.jar",
       "sha256": "a8288069cd46f5d63543f7c0119bb0ae7f6a8c6d9aa7032c258b7e097cac9f04",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/journeymap-neoforge-1.21.1-6.0.0-beta.52.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/journeymap-neoforge-1.21.1-6.0.0-beta.52.jar",
       "size": 3537573,
       "required": true
     },
     {
       "path": "mods/just-hammers-neoforge-21.1.3.jar",
       "sha256": "7a9163d3467ef042a3d93932c1b936620d413d0f87380d93470450f43c7c0bcc",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/just-hammers-neoforge-21.1.3.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/just-hammers-neoforge-21.1.3.jar",
       "size": 101607,
       "required": true
     },
     {
       "path": "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
       "sha256": "83f1701f7802d4355e57f73c2751b29e4b760a4e2a18427504bbd9ce7090a0c1",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
       "size": 43798,
       "required": true
     },
     {
       "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
       "sha256": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
       "size": 618842,
       "required": true
     },
     {
       "path": "mods/kotlinforforge-5.10.0-all.jar",
       "sha256": "113ed703323efec1933be98f38d0b1fb4a8bdec5c1c7c250e83a7db7778baeff",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/kotlinforforge-5.10.0-all.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/kotlinforforge-5.10.0-all.jar",
       "size": 6730194,
       "required": true
     },
     {
       "path": "mods/krypton_fnp-neoforge-1.21.1-0.2.23.jar",
       "sha256": "74477e2e4fd184567445a8c2b90f0aaa38e93f71a6a60ffd2f00bc71508725b6",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/krypton_fnp-neoforge-1.21.1-0.2.23.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/krypton_fnp-neoforge-1.21.1-0.2.23.jar",
       "size": 1414788,
       "required": true
     },
     {
       "path": "mods/lithium-neoforge-0.15.0+mc1.21.1.jar",
       "sha256": "8b671fa5486487c03d13543560a4909bc57c8933e200f62a7d79947aa48a8e41",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/lithium-neoforge-0.15.0+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/lithium-neoforge-0.15.0+mc1.21.1.jar",
       "size": 747405,
       "required": true
     },
     {
       "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
       "sha256": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/melody_neoforge_1.0.10_MC_1.21.jar",
       "size": 36096,
       "required": true
     },
     {
       "path": "mods/modernfix-neoforge-5.24.3+mc1.21.1.jar",
       "sha256": "0f1f987cdb9f1896217d45d91a9eaa20ee4c0054c41602624b54d81513a8cc22",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/modernfix-neoforge-5.24.3+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/modernfix-neoforge-5.24.3+mc1.21.1.jar",
       "size": 558771,
       "required": true
     },
     {
       "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
       "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
       "size": 73938,
       "required": true
     },
     {
       "path": "mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
       "sha256": "866ac9a47afcd829bdb03890b5d8f80bb4c6f47332c64717b6e909bee51337b6",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
       "size": 306668,
       "required": true
     },
     {
       "path": "mods/noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
       "sha256": "e95209d593bc00d7c5de94f746ffd1dfbfa70ac8fbe938393ef930d00416109c",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
       "size": 60296,
       "required": true
     },
     {
       "path": "mods/notenoughanimations-neoforge-1.10.2-mc1.21.jar",
       "sha256": "2bc2f7405c9d8fbd0533096b00e5b16a86e5a31cdcc2d486c6e6642a974cf4df",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/notenoughanimations-neoforge-1.10.2-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/notenoughanimations-neoforge-1.10.2-mc1.21.jar",
       "size": 842009,
       "required": true
     },
     {
       "path": "mods/OctoLib-NEOFORGE-0.6.0.4+1.21.jar",
       "sha256": "0cf8725caedacb6aebca9e1902463169f039dc9f2f98a8a08dda5dae82d67168",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/OctoLib-NEOFORGE-0.6.0.4+1.21.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/OctoLib-NEOFORGE-0.6.0.4+1.21.jar",
       "size": 507443,
       "required": true
     },
     {
       "path": "mods/pamhc2crops-NEOFORGE-1.21.1-1.0.4.jar",
       "sha256": "33ab4fee1eb05c65355107896e8ede15f7a83db9998f775ead0388bdc13a75bc",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/pamhc2crops-NEOFORGE-1.21.1-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/pamhc2crops-NEOFORGE-1.21.1-1.0.4.jar",
       "size": 1117061,
       "required": true
     },
     {
       "path": "mods/pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar",
       "sha256": "acd5dd380eafc3f317b67231a2355c204cab254dfdf4ab1f25c084fdd3d317b9",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar",
       "size": 1699044,
       "required": true
     },
     {
       "path": "mods/pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar",
       "sha256": "d61dda7d00ab69bfaef45854df01ab6cfd64243d7f9a5ae870c89dd954247a8c",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar",
       "size": 1983616,
       "required": true
     },
     {
       "path": "mods/pamhc2trees-NEOFORGE-1.21.1-1.0.6.jar",
       "sha256": "cfdceb3f65bfb3137b1a63e9fe0d2383643428200d0caa92a6240859fe1006b1",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/pamhc2trees-NEOFORGE-1.21.1-1.0.6.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/pamhc2trees-NEOFORGE-1.21.1-1.0.6.jar",
       "size": 1397694,
       "required": true
     },
     {
       "path": "mods/particle_core-0.2.6+1.21+neoforge.jar",
       "sha256": "15a8b462016414e0ed1650e7a6ed21997e32b07e1aa824f07a4a9073fd2b9302",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/particle_core-0.2.6+1.21+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/particle_core-0.2.6+1.21+neoforge.jar",
       "size": 95443,
       "required": true
     },
     {
       "path": "mods/particular-1.21.1-NeoForge-1.1.6.jar",
       "sha256": "ca334ece04fd4bbea26850e8b2071a1d08ce6987fc33be68b921cb254d52ad6c",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/particular-1.21.1-NeoForge-1.1.6.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/particular-1.21.1-NeoForge-1.1.6.jar",
       "size": 221330,
       "required": true
     },
     {
       "path": "mods/Perception-NEOFORGE-0.1.6+1.21.1.jar",
       "sha256": "06b0f18623e72f2584bc11a27c80fae28a64dbe3dd82a08aff74d0ce888643f1",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/Perception-NEOFORGE-0.1.6+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/Perception-NEOFORGE-0.1.6+1.21.1.jar",
       "size": 68739,
       "required": true
     },
     {
       "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
       "sha256": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/prickle-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/prickle-neoforge-1.21.1-21.1.11.jar",
       "size": 84812,
       "required": true
     },
     {
       "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "size": 77326,
       "required": true
     },
     {
       "path": "mods/ShoulderSurfing-NeoForge-1.21.1-4.14.3.jar",
       "sha256": "968ee7d593e71ea46ae49ba8d9a220c58cf32d15cd699ca6ad75612e0fffae8f",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/ShoulderSurfing-NeoForge-1.21.1-4.14.3.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/ShoulderSurfing-NeoForge-1.21.1-4.14.3.jar",
       "size": 234764,
       "required": true
     },
     {
       "path": "mods/simpleclouds-0.7.3+1.21.1-all.jar",
       "sha256": "416e31ea7976eac958824391daec3be704842175823718946398219857ec44d9",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/simpleclouds-0.7.3+1.21.1-all.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/simpleclouds-0.7.3+1.21.1-all.jar",
       "size": 2207822,
       "required": true
     },
     {
       "path": "mods/skinlayers3d-neoforge-1.9.0-mc1.21.jar",
       "sha256": "b4e9f307b8dca504213891e4ac05ada3339675c8360d3371b6c7541fc93bcbb2",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/skinlayers3d-neoforge-1.9.0-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/skinlayers3d-neoforge-1.9.0-mc1.21.jar",
       "size": 876523,
       "required": true
     },
     {
       "path": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
       "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
       "size": 1162994,
       "required": true
     },
     {
       "path": "mods/sophisticatedbackpacks-1.21.1-3.25.21.1475.jar",
       "sha256": "c888de16ada0232cb83df015a24d0e8bdb11e07c3f2417a511ad19af43dcae9a",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/sophisticatedbackpacks-1.21.1-3.25.21.1475.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/sophisticatedbackpacks-1.21.1-3.25.21.1475.jar",
       "size": 986308,
       "required": true
     },
     {
       "path": "mods/sophisticatedcore-1.21.1-1.3.99.1340.jar",
       "sha256": "26398deef3f305db36b219ec1d96328393655b6c89cf85fbf1c90b4d77f8ad2f",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/sophisticatedcore-1.21.1-1.3.99.1340.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/sophisticatedcore-1.21.1-1.3.99.1340.jar",
       "size": 1494050,
       "required": true
     },
     {
       "path": "mods/spark-1.10.124-neoforge.jar",
       "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/spark-1.10.124-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/spark-1.10.124-neoforge.jar",
       "size": 3642581,
       "required": true
     },
     {
       "path": "mods/worldedit-mod-7.3.8.jar",
       "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/mods/worldedit-mod-7.3.8.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/mods/worldedit-mod-7.3.8.jar",
       "size": 6222854,
       "required": true
     },
     {
       "path": "resourcepacks/AccuracyCrosshair.zip",
       "sha256": "cb676bcb67207e711f282b016db5fa700977e0b4ff59194bbe5b4485b7858619",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/AccuracyCrosshair.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/AccuracyCrosshair.zip",
       "size": 10692,
       "required": true
     },
     {
       "path": "resourcepacks/BACAP Language Pack 1.19 (1).zip",
       "sha256": "f04913acbd3dfcb683b449d49b5ae227f47d33866823a363ebe1931b2940682b",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/BACAP Language Pack 1.19 (1).zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/BACAP Language Pack 1.19 (1).zip",
       "size": 3007802,
       "required": true
     },
     {
       "path": "resourcepacks/BetterBubbles.zip",
       "sha256": "4ea8dc491835272a97fecbc3d15574523d3f166f30190fd4fec1cd3c72b9a596",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/BetterBubbles.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/BetterBubbles.zip",
       "size": 1623,
       "required": true
     },
     {
       "path": "resourcepacks/CentralCrosshair.zip",
       "sha256": "7418524c55cd1cfa64c4f904dad7fdb470e8a0e3b3485911fbd649d36667f47c",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/CentralCrosshair.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/CentralCrosshair.zip",
       "size": 1201,
       "required": true
     },
     {
       "path": "resourcepacks/CleanSwords.zip",
       "sha256": "611711cef8cc66651e056bf035a6d933e28082ad0a13a8876a9e76341f4e4c96",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/CleanSwords.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/CleanSwords.zip",
       "size": 3512,
       "required": true
     },
     {
       "path": "resourcepacks/CombatCrosshair.zip",
       "sha256": "76b3ba03d7c232ce2d05969a29de8e150e287964b8da455545ae0a083cb0e23a",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/CombatCrosshair.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/CombatCrosshair.zip",
       "size": 10271,
       "required": true
     },
     {
       "path": "resourcepacks/DiamondCrosshair.zip",
       "sha256": "8fe9a4294dbe18a9026326a61481320460367ec137ff499ae449a5e727c373ca",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/DiamondCrosshair.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/DiamondCrosshair.zip",
       "size": 10687,
       "required": true
     },
     {
       "path": "resourcepacks/Faithful 64x - Release 10.zip",
       "sha256": "56bdf9cc9d2162e36844f0911b9b1881eb6eb4839f024be5b995611010a629b5",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/Faithful 64x - Release 10.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/Faithful 64x - Release 10.zip",
       "size": 18001871,
       "required": true
     },
     {
       "path": "resourcepacks/FreshAnimations_v1.10.1.zip",
       "sha256": "2e2f0152469fcaac19c46f2959e0232f9b2c12a255e0481d85f845ecba003692",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/FreshAnimations_v1.10.1.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/FreshAnimations_v1.10.1.zip",
       "size": 815824,
       "required": true
     },
     {
       "path": "resourcepacks/FreshXFaithless.zip",
       "sha256": "3017efb3143a674e3fc8096562d850802f44c47bab0677541a2cfe7f7171eb21",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/FreshXFaithless.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/FreshXFaithless.zip",
       "size": 3091,
       "required": true
     },
     {
       "path": "resourcepacks/ImprovedCrosshair.zip",
       "sha256": "10f3b068db69f619184ad1777bc5baca3dabfb408595c399f7014c9038b4cfdc",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/ImprovedCrosshair.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/ImprovedCrosshair.zip",
       "size": 1200,
       "required": true
     },
     {
       "path": "resourcepacks/ModernArmourBar.zip",
       "sha256": "516793155abbee7fc01db2807b2cc5e8ae65dc7ca8bdf3f053c61b22958a1d67",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/ModernArmourBar.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/ModernArmourBar.zip",
       "size": 1279,
       "required": true
     },
     {
       "path": "resourcepacks/ModernCrosshair.zip",
       "sha256": "4f3c08604095dfb2f9310b931fc7d697269951ae8d4c036636e1fbaefade8c78",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/ModernCrosshair.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/ModernCrosshair.zip",
       "size": 10279,
       "required": true
     },
     {
       "path": "resourcepacks/SimplisticGUI-v3.zip",
       "sha256": "35755ab3374a142020f4541a00a5406db411142dbdfc46244ef11604d55c8421",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/SimplisticGUI-v3.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/SimplisticGUI-v3.zip",
       "size": 26846,
       "required": true
     },
     {
       "path": "resourcepacks/SimplisticMenu-v2.zip",
       "sha256": "1d62f4bb31107a1674400c328e8932c5cf8b51259d3b3ab0599aaeb80c0e47d6",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/SimplisticMenu-v2.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/SimplisticMenu-v2.zip",
       "size": 12206,
       "required": true
     },
     {
       "path": "resourcepacks/X-Crosshair.zip",
       "sha256": "502673636f57ff23c208933fef46e0a4e77d0bb3dcaecf6011399943e7c48259",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/resourcepacks/X-Crosshair.zip",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/resourcepacks/X-Crosshair.zip",
       "size": 1197,
       "required": true
     },
     {
       "path": "shaderpacks/iris-neoforge-1.8.12+mc1.21.1.jar",
       "sha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
-      "url": "https://raw.githubusercontent.com/eunho09/mcpack/main/mcpack-files/shaderpacks/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/eunho09/automanifest/main/mcpack-files/shaderpacks/iris-neoforge-1.8.12+mc1.21.1.jar",
       "size": 2438548,
       "required": true
     }
